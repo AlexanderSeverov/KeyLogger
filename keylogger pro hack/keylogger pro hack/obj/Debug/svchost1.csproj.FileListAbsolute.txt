@@ -1,0 +1,5 @@
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\keylogger pro hack\keylogger pro hack\bin\Debug\svchost1.exe.config
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\keylogger pro hack\keylogger pro hack\obj\Debug\svchost1.exe
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\keylogger pro hack\keylogger pro hack\obj\Debug\svchost1.pdb
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\keylogger pro hack\keylogger pro hack\bin\Debug\svchost1.exe
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\keylogger pro hack\keylogger pro hack\bin\Debug\svchost1.pdb
